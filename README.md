@@ -1,4 +1,5 @@
-<img src="https://path/to/1280_640_banniere.png" alt="Ma Banniere" width="1280" height="640">
+<img src="https://raw.githubusercontent.com/ton-utilisateur/ton-depot/branch/chemin/vers/1280_640_banniere.png" alt="Ma Banniere" width="1280" height="640">
+
 
 
 
