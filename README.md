@@ -1,9 +1,4 @@
-<div style="width: 100%; height: 250px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-  <img src="https://raw.githubusercontent.com/adam-telmat/adam-telmat/main/banni%C3%A8re.png" 
-       style="height: 100%; width: auto;" 
-       alt="Bannière" />
-</div>
-
+<img src="https://path/to/1280_640_banniere.png" alt="Ma Banniere" width="1280" height="640">
 
 
 
