@@ -1,1 +1,1 @@
-![Bannière](https://github.com/adam-telmat/adam-telmat/blob/main/banni%C3%A8re.png)
+<img src="https://github.com/adam-telmat/adam-telmat/blob/main/banni%C3%A8re.png" width="600" height="150" />
