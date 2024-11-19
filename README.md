@@ -13,9 +13,9 @@ I am a passionate **Artificial Intelligence Developer** and **Data Scientist**, 
 - **Data Science**: Data Cleaning, Data Visualization, Feature Engineering, Predictive Modeling
 - **Tools**: Git, Docker, AWS, GCP, Kubernetes, CI/CD, Jupyter Notebooks
 
-  ## 📚 Education
-- **Master's in Artificial Intelligence**, [School Name], Expected 2029  
-- **AI Developer Certification**, [Platform Name], Expected 2027  
+ ## 📚 Education
+- **Master's in Artificial Intelligence**, [La Plateforme], Expected 2029  
+- **AI Developer Certification**, [La Plateforme], Expected 2027  
 
 📊 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adam-telmat&show_icons=true&count_private=true&hide_title=true)
@@ -26,6 +26,7 @@ I am a passionate **Artificial Intelligence Developer** and **Data Scientist**, 
 ## 🌐 Connect with Me
 - **LinkedIn**: [linkedin.com/in/adam-telmat](https://www.linkedin.com/in/adam-telmat-44b23315b)
 - **Twitter**: [@adam_telmat](https://twitter.com/adam_telmat)
+- **Email**: [adam.telmat@laplateforme.io](mailto:adam.telmat@laplateforme.io)
 
 
 ## 💬 Let's Connect!
