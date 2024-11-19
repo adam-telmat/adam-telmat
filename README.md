@@ -1,4 +1,5 @@
-<img src="https://github.com/adam-telmat/adam-telmat/raw/main/banniere_robot.png" alt="Ma Bannière" width="700">
+<img src="https://github.com/adam-telmat/adam-telmat/blob/main/banniere_ia.png?raw=true" alt="Banniere IA">
+
 
 
 
