@@ -1,23 +1,26 @@
-# Bienvenue sur mon profil GitHub 👋
+![AI Banner](https://github.com/adam-telmat/adam-telmat/blob/main/banniere_ia.png?raw=true)
 
-<img src="https://github.com/adam-telmat/adam-telmat/blob/main/banniere_ia.png?raw=true" alt="Banniere IA">
+# Hi, I'm Adam Telmat 👋
 
-## 🧑‍💻 Biographie
-Je suis en mission pour redéfinir l'avenir de l'intelligence artificielle, transformant les opportunités d'aujourd'hui en innovations révolutionnaires de demain.
+I'm passionate about **Artificial Intelligence** and my goal is to transform today's opportunities into groundbreaking innovations for tomorrow. I aim to contribute to ambitious AI projects, combining **creativity**, **technology**, and **positive impact**.
 
-## 🚀 Projets
+## 🧠 Skills
+- **Machine Learning**: Python, TensorFlow, PyTorch  
+- **Deep Learning**: Neural Networks, NLP, Computer Vision  
+- **Data Science**: Data Cleaning, Visualization, Prediction  
+- **Software Development**: C++, Java, Git  
+- **Open Source Project Management**: Design, Development, and Community Management
 
-Voici quelques-uns de mes projets :
+## 📚 Education
+- **Master's in Artificial Intelligence**, [Platform School] (Expected 2029)  
+- **AI Developer**, [Platform School] (Expected 2027)
 
-- [Projet IA pour la Prédiction des Données](https://github.com/adam-telmat/projet-ia)
-- [Analyse des Sentiments avec NLP](https://github.com/adam-telmat/nlp-sentiment)
-
-## 📊 Statistiques GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adam-telmat&show_icons=true)
-
-## 📱 Suivez-moi sur Twitter
-[![Twitter](https://img.shields.io/badge/Twitter-@ton_nom-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ton_nom)
-
+## 🎯 Badges & Achievements
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.6-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-1.9-red)
+![GitHub Followers](https://img.shields.io/github/followers/adam-telmat?label=Follow%20Me&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/adam-telmat?style=social)
 
 
 
