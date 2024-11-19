@@ -1,6 +1,6 @@
-# Bonjour, je suis Adam Telmat 👋
+# Bienvenue sur mon profil GitHub 👋
 
-Bienvenue sur mon profil GitHub ! Je suis actuellement étudiant en **Master Intelligence Artificielle**.
+<img src="https://github.com/adam-telmat/adam-telmat/blob/main/banniere_ia.png?raw=true" alt="Banniere IA">
 
 ## 🧑‍💻 Biographie
 Je suis en mission pour redéfinir l'avenir de l'intelligence artificielle, transformant les opportunités d'aujourd'hui en innovations révolutionnaires de demain.
@@ -17,10 +17,6 @@ Voici quelques-uns de mes projets :
 
 ## 📱 Suivez-moi sur Twitter
 [![Twitter](https://img.shields.io/badge/Twitter-@ton_nom-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ton_nom)
-
-## 📸 Ma Bannière
-<img src="https://github.com/adam-telmat/adam-telmat/blob/main/banniere_ia.png?raw=true" alt="Banniere IA">
-
 
 
 
