@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/adam-telmat/adam-telmat/blob/main/banniere_ia.png?raw=true)
+![Profile Banner](https://github.com/adam-telmat/adam-telmat/blob/main/banniere_ia2.png?raw=true)
 
 # 👋 Hello, I'm Adam Telmat!
 
