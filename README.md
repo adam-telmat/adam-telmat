@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Adam Telmat!
 
-I am a passionate **Artificial Intelligence Developer** and **Data Scientist**, aiming to turn today's opportunities into tomorrow's groundbreaking innovations. I'm currently pursuing a **Master's in Artificial Intelligence** with a focus on **Deep Learning**, **NLP**, and **Generative AI**. Let's connect and create something amazing together! 🚀
+I am a passionate **Artificial Intelligence Developer** and **Data Analyst**, aiming to turn today's opportunities into tomorrow's groundbreaking innovations. I'm currently pursuing a **Master's in Artificial Intelligence** with a focus on **Deep Learning**, **NLP**, and **Generative AI**. Let's connect and create something amazing together! 🚀
 
 ## 🧠 Skills & Expertise
 - **Languages**: Python, SQL, JavaScript, C++, Ruby
